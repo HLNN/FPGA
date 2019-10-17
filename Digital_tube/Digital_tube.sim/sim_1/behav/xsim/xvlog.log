@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hln/Code/FPGA/Digital_tube/Digital_tube.srcs/sources_1/new/Digital_tube.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Digital_tube
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hln/Code/FPGA/Digital_tube/Digital_tube.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
