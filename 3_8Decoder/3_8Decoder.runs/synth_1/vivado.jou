@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct 17 17:07:39 2019
+# Process ID: 613
+# Current directory: /home/hln/Code/FPGA/3_8Decoder/3_8Decoder.runs/synth_1
+# Command line: vivado -log decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder.tcl
+# Log file: /home/hln/Code/FPGA/3_8Decoder/3_8Decoder.runs/synth_1/decoder.vds
+# Journal file: /home/hln/Code/FPGA/3_8Decoder/3_8Decoder.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source decoder.tcl -notrace
