@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Oct 18 20:35:49 2019
+# Process ID: 23505
+# Current directory: /home/hln/Code/FPGA/Calculator/Calculator.runs/synth_1
+# Command line: vivado -log Calculator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Calculator.tcl
+# Log file: /home/hln/Code/FPGA/Calculator/Calculator.runs/synth_1/Calculator.vds
+# Journal file: /home/hln/Code/FPGA/Calculator/Calculator.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Calculator.tcl -notrace
